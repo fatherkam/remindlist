@@ -1,0 +1,4 @@
+remindlist
+.DS_Store
+.build/
+*.o
